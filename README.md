@@ -22,7 +22,6 @@
 
 <br/><br/>
 
-<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -91,36 +90,6 @@ philosophy: |
   I believe in learning by doing — breaking things apart
   to understand how they work, then building them better.
   The best way to predict the future is to build it.
-```
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ═══════════════════════ TRAJECTORY ═══════════════════════ -->
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;`> cat /var/log/trajectory.log`
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                      TRAJECTORY LOGS                             │
-│   Chronological data points of the entity's evolution            │
-├──────────────┬───────────────────────────────────────────────────┤
-│ 2023-PRESENT │ ◉ Senior Cybersecurity Engineer                   │
-│              │   SIEM architecture, log management,              │
-│              │   infrastructure observability.                    │
-│              │   Building automated threat detection pipelines.   │
-├──────────────┼───────────────────────────────────────────────────┤
-│ 2021-2023    │ ◉ DevOps Automation Lead                          │
-│              │   Bare-metal provisioning, CI/CD pipelines.       │
-│              │   Cloud-native → self-hosted to reduce cost.      │
-├──────────────┼───────────────────────────────────────────────────┤
-│ 2018-2021    │ ◉ Systems Administrator                           │
-│              │   Linux systems, network security, scripting.     │
-│              │   Reliability engineering foundations.             │
-└──────────────┴───────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -312,24 +281,23 @@ philosophy: |
 
 <div align="center">
 
+<!-- Using streak-stats.demolab.com which is more reliable -->
 <a href="https://github.com/SutanuNandigrami">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SutanuNandigrami&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=58a6ff&text_color=8b949e&ring_color=00d4ff&hide_border=false&count_private=true" />
-</a>
-<a href="https://github.com/SutanuNandigrami">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=SutanuNandigrami&theme=github-dark-blue&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff&sideLabels=58a6ff&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=SutanuNandigrami&theme=github-dark-blue&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff&sideLabels=58a6ff&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/SutanuNandigrami">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutanuNandigrami&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d4ff&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH — most reliable of the stats services -->
 <a href="https://github.com/SutanuNandigrami">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SutanuNandigrami&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58a6ff&area_color=00d4ff&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" />
+</a>
+
+<br/><br/>
+
+<!-- GITHUB TROPHIES -->
+<a href="https://github.com/SutanuNandigrami">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=SutanuNandigrami&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5" />
 </a>
 
 </div>
